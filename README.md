@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/48_chauhan" target="blank"><img src="https://img.shields.io/twitter/follow/48_chauhan?logo=twitter&style=for-the-badge" alt="48_chauhan" /></a> </p>
 
-- 🔭 I’m currently working on [FIFO](https://fifo.im)
+- 🔭 I’m currently working on [Glue]()
 
-- 🌱 I’m currently learning **Svelte with Sveltekit**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly posts on [https://fifo.im/shalinichauhan48](https://fifo.im/shalinichauhan48)
 
