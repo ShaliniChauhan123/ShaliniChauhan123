@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shalini Chauhan</h1>
 <h3 align="center">A passionate Software developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalinichauhan123" alt="shalinichauhan123" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
 <p align="left"> <a href="https://twitter.com/48_chauhan" target="blank"><img src="https://img.shields.io/twitter/follow/48_chauhan?logo=twitter&style=for-the-badge" alt="48_chauhan" /></a> </p>
 
