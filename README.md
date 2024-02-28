@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on client project(Prolaio)
 
-- 🌱 I love to learn new technology and work on new tech stack
+- 🌱 I love learning about new technologies and working with different tech stacks.
 
 - 💬 Ask me about **React, Redux, Redux-Saga, Reactquery, flutter, Javascript, Svelte**
 
