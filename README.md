@@ -4,13 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/48_chauhan" target="blank"><img src="https://img.shields.io/twitter/follow/48_chauhan?logo=twitter&style=for-the-badge" alt="48_chauhan" /></a> </p>
 
-- 🔭 I’m currently working on [Glue]()
+- 🔭 I’m currently working on client project(Prolaio)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I love to learn new technology and work on new tech stack
 
-- 📝 I regularly posts on [https://fifo.im/shalinichauhan48](https://fifo.im/shalinichauhan48)
-
-- 💬 Ask me about **React, Redux, Javscript, Svelte**
+- 💬 Ask me about **React, Redux, Redux-Saga, Reactquery, flutter, Javascript, Svelte**
 
 - 📫 How to reach me **chauhanshaliniuk@gmail.com**
 
