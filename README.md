@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/48_chauhan" target="blank"><img src="https://img.shields.io/twitter/follow/48_chauhan?logo=twitter&style=for-the-badge" alt="48_chauhan" /></a> </p>
 
-- 🔭 I’m currently working on Glue Labs.
+- 🔭 I am presently involved in projects at Glue Labs.
 
 - 🌱 I love learning about new technologies and working with different tech stacks.
 
