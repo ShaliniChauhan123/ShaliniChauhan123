@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalinichauhan123&show_icons=true" alt="shalinichauhan123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinichauhan123&" alt="shalinichauhan123" /></p>
+![Visitor Count](https://profile-counter.glitch.me/ShaliniChauhan123/count.svg)
