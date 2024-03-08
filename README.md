@@ -32,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinichauhan123&" alt="shalinichauhan123" /></p>
 ![Visitor Count](https://profile-counter.glitch.me/{ShaliniChauhan123}/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{ShaliniChauhan123}/count.svg)
