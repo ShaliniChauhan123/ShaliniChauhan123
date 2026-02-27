@@ -6,7 +6,7 @@
 
 - 🌱 I love learning about new technologies and working with different tech stacks.
 
-- 💬 Ask me about **React, Redux, Redux-Saga, Reactquery, flutter, Javascript, Svelte**
+- 💬 Ask me about **Javascript, Typescript, ReactJs, NextJs Redux, Reactquery Redux-Saga, flutter with Riverpod, Svelte**
 
 - 📫 How to reach me **chauhanshaliniuk@gmail.com**
 
